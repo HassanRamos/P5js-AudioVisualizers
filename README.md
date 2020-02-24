@@ -1,12 +1,17 @@
 # Creative Audio Visualizers
 
+
+
+
+
+
 An exploration of modern, line-style sound visualization powered by p5js and its p5.sound library. By Yannis Yannakopoulos.
 
 ![Audio Visualizers](https://tympanus.net/codrops/wp-content/uploads/2018/03/AudioVisualizers_featured.jpg)
 
 [Article on Codrops](https://tympanus.net/codrops/?p=33934)
 
-[Demo](http://tympanus.net/Development/AudioVisualizers/)
+[Demo](https://stupefied-saha-360ab2.netlify.com/)
 
 ## Credits
 
